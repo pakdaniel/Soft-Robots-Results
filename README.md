@@ -1,5 +1,9 @@
 # Soft-Robots-Results
 Final Term Project that showcases an evolutionary algorithm to create variable morphology robots. Fitness metric was the average velocity. Created using OpenGL with C++ <br />
+![alt text](https://github.com/pakdaniel/Soft-Robots-Results/blob/main/Frame1.png)
+
+
+
 Fastest Robot: https://www.youtube.com/watch?v=6tbaVD0waJE <br />
 Fastest Robot with Bounce: https://www.youtube.com/watch?v=xhyynWcuUI8 <br /> 
 Multiple Robots: https://www.youtube.com/watch?v=6al5QVD9UHk <br />
